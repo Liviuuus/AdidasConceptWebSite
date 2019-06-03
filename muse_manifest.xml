@@ -1,0 +1,164 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="adidassite.com" resolutions="1x" timestamp="1515946086392">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="store.css" crc="360054495" ref="store"/>
+    <file name="nomq_store.css" crc="343735499" ref="store"/>
+    <file name="male-shoes.css" crc="3847381176" ref="male-shoes"/>
+    <file name="nomq_male-shoes.css" crc="120835926" ref="male-shoes"/>
+    <file name="index.css" crc="4020159333" ref="index"/>
+    <file name="nomq_index.css" crc="3903280305" ref="index"/>
+    <file name="female-shoes.css" crc="73690908" ref="female-shoes"/>
+    <file name="nomq_female-shoes.css" crc="4157409734" ref="female-shoes"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:store:female-shoes:male-shoes"/>
+    <file name="museutils.js" crc="4148063285" ref="index:store:female-shoes:male-shoes"/>
+    <file name="whatinput.js" crc="86476730" ref="index:store:female-shoes:male-shoes"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:store:female-shoes:male-shoes"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:store:female-shoes:male-shoes"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:store:female-shoes:male-shoes"/>
+    <file name="require.js" crc="4159430777" ref="index:store:female-shoes:male-shoes"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:store:female-shoes:male-shoes"/>
+    <file name="u594_states.png" crc="528789222" ref="index"/>
+    <file name="u594_states-r.png" crc="4182822639" ref="index"/>
+    <file name="u663.png" crc="4126688929" ref="index"/>
+    <file name="u663-r.png" crc="4126688929" ref="index"/>
+    <file name="u674_states.png" crc="3788746751" ref="index"/>
+    <file name="u674_states-r.png" crc="48627340" ref="index"/>
+    <file name="u780.png" crc="425111568" ref="index"/>
+    <file name="u780-r.png" crc="242359944" ref="index"/>
+    <file name="u211-4.png" crc="4158299674" ref="index"/>
+    <file name="u217-4.png" crc="4291265335" ref="index"/>
+    <file name="u223-4.png" crc="49679926" ref="index"/>
+    <file name="u200-4.png" crc="3908573633" ref="index"/>
+    <file name="instagram.png" crc="391059105" seo="true" ref="index:store:female-shoes:male-shoes"/>
+    <file name="facebook.png" crc="367120852" seo="true" ref="index:store:female-shoes:male-shoes"/>
+    <file name="twitter.png" crc="182536840" seo="true" ref="index:store:female-shoes:male-shoes"/>
+    <file name="untitled-2.jpg" crc="4255607940" seo="true" ref="index"/>
+    <file name="adidas_png18.png" crc="3836640076" seo="true" ref="index:store:female-shoes:male-shoes"/>
+    <file name="u357-4.png" crc="3924404145" ref="index"/>
+    <file name="u393-4.png" crc="3809929778" ref="index"/>
+    <file name="u481-4.png" crc="206065357" ref="index"/>
+    <file name="u211-42.png" crc="4169656959" ref="index"/>
+    <file name="u200-42.png" crc="3908573633" ref="index"/>
+    <file name="u223-42.png" crc="303659768" ref="index"/>
+    <file name="u217-42.png" crc="348609266" ref="index"/>
+    <file name="u357-42.png" crc="3924404145" ref="index"/>
+    <file name="u393-42.png" crc="3809929778" ref="index"/>
+    <file name="u481-42.png" crc="206065357" ref="index"/>
+    <file name="u594_states2.png" crc="528789222" ref="index"/>
+    <file name="u594_states-r2.png" crc="4182822639" ref="index"/>
+    <file name="u6632.png" crc="4126688929" ref="index"/>
+    <file name="u663-r2.png" crc="4126688929" ref="index"/>
+    <file name="u674_states2.png" crc="4210086237" ref="index"/>
+    <file name="u674_states-r2.png" crc="130854079" ref="index"/>
+    <file name="u7802.png" crc="4133994044" ref="index"/>
+    <file name="u780-r2.png" crc="3923624107" ref="index"/>
+    <file name="u2167-4.png" crc="3908573633" ref="store"/>
+    <file name="u2165-4.png" crc="4158299674" ref="store"/>
+    <file name="u2159-4.png" crc="4291265335" ref="store"/>
+    <file name="u2164-4.png" crc="49679926" ref="store"/>
+    <file name="u2161.png" crc="4182822639" ref="store"/>
+    <file name="u2161-r.png" crc="4182822639" ref="store"/>
+    <file name="u2163_states.png" crc="3983927391" ref="store"/>
+    <file name="u2163_states-r.png" crc="4126688929" ref="store"/>
+    <file name="u2160_states.png" crc="3788746751" ref="store"/>
+    <file name="u2160_states-r.png" crc="48627340" ref="store"/>
+    <file name="u2372.png" crc="455046608" ref="store"/>
+    <file name="u2372-r.png" crc="455046608" ref="store"/>
+    <file name="u2366.png" crc="4098882247" ref="store"/>
+    <file name="u2366-r.png" crc="4098882247" ref="store"/>
+    <file name="u2166.png" crc="322226767" ref="store"/>
+    <file name="u2166-r.png" crc="322226767" ref="store"/>
+    <file name="u2462_states.png" crc="122731102" ref="store"/>
+    <file name="u2462_states-r.png" crc="480591901" ref="store"/>
+    <file name="14125078_1433292583352902_6895335102227922871_o.png" crc="4008360166" seo="true" ref="store:female-shoes"/>
+    <file name="u2162-4.png" crc="3924404145" ref="store"/>
+    <file name="nmdwomen.png" crc="3981127784" seo="true" ref="store:female-shoes"/>
+    <file name="u2165-42.png" crc="4169656959" ref="store"/>
+    <file name="u2167-42.png" crc="3908573633" ref="store"/>
+    <file name="u2164-42.png" crc="303659768" ref="store"/>
+    <file name="u2159-42.png" crc="348609266" ref="store"/>
+    <file name="u2162-42.png" crc="3924404145" ref="store"/>
+    <file name="u21612.png" crc="4182822639" ref="store"/>
+    <file name="u2161-r2.png" crc="4182822639" ref="store"/>
+    <file name="u2163_states2.png" crc="3983927391" ref="store"/>
+    <file name="u2163_states-r2.png" crc="4126688929" ref="store"/>
+    <file name="u2160_states2.png" crc="4210086237" ref="store"/>
+    <file name="u2160_states-r2.png" crc="130854079" ref="store"/>
+    <file name="u23722.png" crc="129910684" ref="store"/>
+    <file name="u2372-r2.png" crc="129910684" ref="store"/>
+    <file name="u23662.png" crc="364446534" ref="store"/>
+    <file name="u2366-r2.png" crc="364446534" ref="store"/>
+    <file name="u21662.png" crc="4259618531" ref="store"/>
+    <file name="u2166-r2.png" crc="4259618531" ref="store"/>
+    <file name="u2462_states2.png" crc="3938856934" ref="store"/>
+    <file name="u2462_states-r2.png" crc="4249917233" ref="store"/>
+    <file name="u2686-4.png" crc="3908573633" ref="female-shoes"/>
+    <file name="u2696-4.png" crc="4158299674" ref="female-shoes"/>
+    <file name="u2695-4.png" crc="4291265335" ref="female-shoes"/>
+    <file name="u2701-4.png" crc="49679926" ref="female-shoes"/>
+    <file name="u2690.png" crc="4182822639" ref="female-shoes"/>
+    <file name="u2690-r.png" crc="4182822639" ref="female-shoes"/>
+    <file name="u2708.png" crc="3983927391" ref="female-shoes"/>
+    <file name="u2708-r.png" crc="4126688929" ref="female-shoes"/>
+    <file name="u2697.png" crc="3788746751" ref="female-shoes"/>
+    <file name="u2697-r.png" crc="48627340" ref="female-shoes"/>
+    <file name="u2705.png" crc="455046608" ref="female-shoes"/>
+    <file name="u2705-r.png" crc="455046608" ref="female-shoes"/>
+    <file name="u2700.png" crc="4098882247" ref="female-shoes"/>
+    <file name="u2700-r.png" crc="4098882247" ref="female-shoes"/>
+    <file name="u2687.png" crc="322226767" ref="female-shoes"/>
+    <file name="u2687-r.png" crc="322226767" ref="female-shoes"/>
+    <file name="u2689.png" crc="122731102" ref="female-shoes"/>
+    <file name="u2689-r.png" crc="480591901" ref="female-shoes"/>
+    <file name="u2702-4.png" crc="3924404145" ref="female-shoes"/>
+    <file name="u2696-42.png" crc="4169656959" ref="female-shoes"/>
+    <file name="u2686-42.png" crc="3908573633" ref="female-shoes"/>
+    <file name="u2701-42.png" crc="303659768" ref="female-shoes"/>
+    <file name="u2695-42.png" crc="348609266" ref="female-shoes"/>
+    <file name="u2702-42.png" crc="3924404145" ref="female-shoes"/>
+    <file name="u26902.png" crc="4182822639" ref="female-shoes"/>
+    <file name="u2690-r2.png" crc="4182822639" ref="female-shoes"/>
+    <file name="u27082.png" crc="3983927391" ref="female-shoes"/>
+    <file name="u2708-r2.png" crc="4126688929" ref="female-shoes"/>
+    <file name="u26972.png" crc="4210086237" ref="female-shoes"/>
+    <file name="u2697-r2.png" crc="130854079" ref="female-shoes"/>
+    <file name="u27052.png" crc="129910684" ref="female-shoes"/>
+    <file name="u2705-r2.png" crc="129910684" ref="female-shoes"/>
+    <file name="u27002.png" crc="364446534" ref="female-shoes"/>
+    <file name="u2700-r2.png" crc="364446534" ref="female-shoes"/>
+    <file name="u26872.png" crc="4259618531" ref="female-shoes"/>
+    <file name="u2687-r2.png" crc="4259618531" ref="female-shoes"/>
+    <file name="u26892.png" crc="3938856934" ref="female-shoes"/>
+    <file name="u2689-r2.png" crc="4249917233" ref="female-shoes"/>
+    <file name="u3030_states.png" crc="4182822639" ref="male-shoes"/>
+    <file name="u3030_states-r.png" crc="4182822639" ref="male-shoes"/>
+    <file name="u3040_states.png" crc="3983927391" ref="male-shoes"/>
+    <file name="u3040_states-r.png" crc="4126688929" ref="male-shoes"/>
+    <file name="u3042_states.png" crc="3788746751" ref="male-shoes"/>
+    <file name="u3042_states-r.png" crc="48627340" ref="male-shoes"/>
+    <file name="u3016-4.png" crc="4158299674" ref="male-shoes"/>
+    <file name="u3025-4.png" crc="4291265335" ref="male-shoes"/>
+    <file name="u3022-4.png" crc="49679926" ref="male-shoes"/>
+    <file name="u3021-4.png" crc="3908573633" ref="male-shoes"/>
+    <file name="u3023-4.png" crc="3924404145" ref="male-shoes"/>
+    <file name="u3016-42.png" crc="4169656959" ref="male-shoes"/>
+    <file name="u3021-42.png" crc="3908573633" ref="male-shoes"/>
+    <file name="u3022-42.png" crc="303659768" ref="male-shoes"/>
+    <file name="u3025-42.png" crc="348609266" ref="male-shoes"/>
+    <file name="u3023-42.png" crc="3924404145" ref="male-shoes"/>
+    <file name="u3030_states2.png" crc="4182822639" ref="male-shoes"/>
+    <file name="u3030_states-r2.png" crc="4182822639" ref="male-shoes"/>
+    <file name="u3040_states2.png" crc="3983927391" ref="male-shoes"/>
+    <file name="u3040_states-r2.png" crc="4126688929" ref="male-shoes"/>
+    <file name="u3042_states2.png" crc="4210086237" ref="male-shoes"/>
+    <file name="u3042_states-r2.png" crc="130854079" ref="male-shoes"/>
+  </folder>
+  <file name="index.html" crc="1111347" seo="true" mt="1515939665715" redirect="true"/>
+  <file name="store.html" crc="136585201" seo="true" mt="1515939740510" redirect="true"/>
+  <file name="female-shoes.html" crc="4526752" seo="true" mt="1515505798108" redirect="true"/>
+  <file name="male-shoes.html" crc="4219790593" seo="true" mt="1515946063950" redirect="true"/>
+</manifest>

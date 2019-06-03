@@ -1,0 +1,41 @@
+.styled-select {
+  background: url(../images/if_ic_keyboard_arrow_down_48px_352466.png) no-repeat 96% 0;
+  height: 29px;
+  overflow: hidden;
+  font-family: 'Poppins', sans-serif;
+  width: 50px;
+}
+.styled-select select {
+  background: transparent;
+  border: none;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  height: 29px;
+  padding: 5px;
+  width: 50px;
+}
+.styled-select.slate {
+  background: url(../images/if_ic_keyboard_arrow_down_48px_352466.png) no-repeat right center;
+  height: 34px;
+  font-family: 'Poppins', sans-serif;
+  width: 50px;
+}
+.styled-select.slate select {
+  border: 0px;
+  font-size: 16px;
+  height: 34px;
+  font-family: 'Poppins', sans-serif;
+  width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
