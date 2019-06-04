@@ -1,5 +1,5 @@
 # Adidas Concept WebSite
-Adidas Concept Website made in Adobe Dreamweaver. This my first website project made by my own from scratch.
+Adidas Concept Website made in Adobe Dreamweaver. This my first website project made by my own from scratch, in my 1st year of university.
 
 
 ## Home Page
